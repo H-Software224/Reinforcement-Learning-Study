@@ -21,6 +21,15 @@
 * [TD와 SARSA](https://github.com/LimSoYeong/Reinforcement-Learning-Study/blob/main/2.%20%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5%20%EA%B8%B0%EB%B3%B8%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/2-6.%20TD%EC%99%80%20SARSA.md)
 * [Q-Learning](https://github.com/LimSoYeong/Reinforcement-Learning-Study/blob/main/2.%20%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5%20%EA%B8%B0%EB%B3%B8%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/2-7.%20Q-Learning.md)
 
+**4. 함수 근사법**
+* [미분](https://github.com/LimSoYeong/Reinforcement-Learning-Study/blob/main/4.%20%ED%95%A8%EC%88%98%20%EA%B7%BC%EC%82%AC%EB%B2%95/4-1(%EB%AF%B8%EB%B6%84).md)
+* [편미분](https://github.com/LimSoYeong/Reinforcement-Learning-Study/blob/main/4.%20%ED%95%A8%EC%88%98%20%EA%B7%BC%EC%82%AC%EB%B2%95/4-2(%ED%8E%B8%EB%AF%B8%EB%B6%84).md)
+* [스칼라와 벡터](https://github.com/LimSoYeong/Reinforcement-Learning-Study/blob/main/4.%20%ED%95%A8%EC%88%98%20%EA%B7%BC%EC%82%AC%EB%B2%95/4-3(%EC%8A%A4%EC%B9%BC%EB%9D%BC%EC%99%80%EB%B2%A1%ED%84%B0).md)
+* [그래디언트](https://github.com/LimSoYeong/Reinforcement-Learning-Study/blob/main/4.%20%ED%95%A8%EC%88%98%20%EA%B7%BC%EC%82%AC%EB%B2%95/4-4(%EA%B7%B8%EB%9E%98%EB%94%94%EC%96%B8%ED%8A%B8).md)
+* [경사하강법](https://github.com/LimSoYeong/Reinforcement-Learning-Study/blob/main/4.%20%ED%95%A8%EC%88%98%20%EA%B7%BC%EC%82%AC%EB%B2%95/4-5(%EA%B2%BD%EC%82%AC%ED%95%98%EA%B0%95%EB%B2%95).md)
+* [확률적 경사하강법](https://github.com/LimSoYeong/Reinforcement-Learning-Study/blob/main/4.%20%ED%95%A8%EC%88%98%20%EA%B7%BC%EC%82%AC%EB%B2%95/4-6(%ED%99%95%EB%A5%A0%EC%A0%81%20%EA%B2%BD%EC%82%AC%ED%95%98%EA%B0%95%EB%B2%95).md)
+* [강화학습에서 편미분과 경사하강법의 표기법](https://github.com/LimSoYeong/Reinforcement-Learning-Study/blob/main/4.%20%ED%95%A8%EC%88%98%20%EA%B7%BC%EC%82%AC%EB%B2%95/4-7(%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5%EC%97%90%EC%84%9C%20%ED%8E%B8%EB%AF%B8%EB%B6%84%EA%B3%BC%20%EA%B2%BD%EC%82%AC%ED%95%98%EA%B0%95%EB%B2%95%EC%9D%98%20%ED%91%9C%EA%B8%B0%EB%B2%95).md)
+* [함수 근사법](https://github.com/LimSoYeong/Reinforcement-Learning-Study/blob/main/4.%20%ED%95%A8%EC%88%98%20%EA%B7%BC%EC%82%AC%EB%B2%95/4-8(%ED%95%A8%EC%88%98%20%EA%B7%BC%EC%82%AC%EB%B2%95).md)
 
 <br>
 
